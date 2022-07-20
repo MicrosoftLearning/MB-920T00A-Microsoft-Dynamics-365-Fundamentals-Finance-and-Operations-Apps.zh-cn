@@ -1,0 +1,45 @@
+---
+lab:
+  title: 实验室 4：创建生产订单
+  module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
+ms.openlocfilehash: 527cbbf9cb2265d48ab2b2ba8fb6516632b46cf1
+ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "147116273"
+---
+## <a name="lab-4---create-a-production-order"></a>实验室 4 - 创建生产订单
+
+## <a name="objectives"></a>目标
+
+生产订单包含有关生产的物品、生产的数量和计划的完成日期的信息。 它还包含了有关生产物品要消耗的材料和要遵循的流程的信息。
+
+你需要为你的公司创建一个新的生产订单。
+
+## <a name="lab-setup"></a>实验室教学设置
+
+   - 预计用时：5 分钟
+
+## <a name="instructions"></a>Instructions
+
+1. 在 Finance and Operations 主页的右上角，验证你当前是否在对 USMF 公司执行操作。
+
+1. 如有必要，请选择公司，然后从菜单中选择“USMF”。
+
+1. 在左侧的导航窗格中，选择“模块” > “生产控制” > “生产订单” > “所有生产订单”。   
+
+1. 在顶部菜单中，选择“新建生产订单”。
+
+1. 在“标识”下的“物料编号”框中，输入“D0001”，然后选择已标识的物料  。
+
+1. 在“生产”下的“交货”框中，选择从当前日期开始再过一个月的日期 。  
+    交货日期表示为了按时交货，生产订单应在何时结束。 该日期可用于计划过程。 例如，可以将订单安排在交货日期前。
+
+1. 在“数量”框中，输入“20”。 
+
+1. 在“物料清单/工艺路线”下，“物料清单编号”字段会自动显示当前物料的任何有效物料清单的编号，但通过从批准的物料清单版本列表中选择一个有效物料清单可更改生产订单的物料清单。 “工艺路线编号”字段会自动显示当前物料的任何有效工艺路线的编号，但通过从批准的工艺路线版本列表中选择一个有效工艺路线可更改生产订单的工艺路线。
+
+    ![显示完整“创建生产订单”窗格的屏幕图像](./media/lp1-m4-new-production-order-pane.png)
+
+1. 选择“创建”。
