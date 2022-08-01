@@ -1,15 +1,15 @@
 ---
 lab:
-  title: 实验室 1：创建具有各种尺寸和颜色的产品
+  title: 实验室 1：创建新产品
   module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: 5e32371aea8a73c04c6aee60953ff9c344b3a533
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
+ms.openlocfilehash: e8fad0a9ddf0787c57ee7b98ddc6ef8363832ffc
+ms.sourcegitcommit: f825cf821d4b03ce60261e296c85eabbc643cc17
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116258"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "147425859"
 ---
-# <a name="module-1-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>模块 1：学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识
+# <a name="module-3-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>模块 3：学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识
 
 ## <a name="lab-1---create-a-new-product"></a>实验室 1 - 创建新产品
 
