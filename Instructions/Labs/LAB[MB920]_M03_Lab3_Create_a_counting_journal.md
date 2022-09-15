@@ -2,22 +2,17 @@
 lab:
   title: 实验室 3：创建盘点日记帐
   module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: 5e61646d33f284bb7e30b6f63a7db4778f58b47c
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116262"
 ---
+
 # <a name="module-3-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>模块 3：学习 Microsoft Dynamics 365 Supply Chain Management 的基础知识
 
 ## <a name="lab-3---create-a-counting-journal"></a>实验室 3 - 创建盘点日记帐
 
-1. 在 Finance and Operations 主页的右上角，验证你当前是否在对 USMF 公司执行操作。 如有必要，请选择公司，然后从下拉列表中选择“USMF”。
+1. On the Finance and Operations home page, in the top right, verify you are working with the <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept> company. If necessary, select the company, and from the drop down, select <bpt id="p1">**</bpt>USMF<ept id="p1">**</ept>.
 
 2. 在左侧导航窗格中，选择“模块” > “库存管理” > “日记帐分录” > “物料盘点” > “盘点”。    
 
-3. 在操作窗格中选择“+新建”按钮。 “创建库存日记帐”对话框窗体随即显示，底部有“确定”按钮。 选择“确定”按钮。
+3. Select the <bpt id="p1">**</bpt>+New<ept id="p1">**</ept> button in the action pane. The <bpt id="p1">**</bpt>Create inventory journal<ept id="p1">**</ept> dialog form will appear with the <bpt id="p2">**</bpt>OK<ept id="p2">**</ept> button in the bottom. Select the <bpt id="p1">**</bpt>OK<ept id="p1">**</ept> button.
 
 4. 库存盘点日记帐窗体将显示标题和详细信息
 
@@ -29,13 +24,13 @@ ms.locfileid: "147116262"
 
 ![“创建现有量盘点日记帐”对话框窗格的屏幕截图，其中设置了如下所述字段。](../media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7. 展开“要包含的记录”部分并选择“筛选”链接。 在“物料编号”字段中，选择“A0001”，然后选择“确定”。
+7. Expand the <bpt id="p1">**</bpt>Record to include<ept id="p1">**</ept> section and select the <bpt id="p2">**</bpt>Filter<ept id="p2">**</ept> link. In the <bpt id="p1">**</bpt>Item number<ept id="p1">**</ept> field, select <bpt id="p2">**</bpt>A0001<ept id="p2">**</ept>, and then select <bpt id="p3">**</bpt>OK<ept id="p3">**</ept>.
 
 8. 在“创建现有量盘点日记帐”对话框窗体底部选择“确定” 。
 
 物料 A0001 的现有量将显示在“日记帐行”部分，其中分拆了网站、仓库、位置和牌照。
 
-9. 在“日记帐行”部分的“盘点”列中，输入每个站点/仓库/位置/牌照中盘点的数字。 注意以下事项：
+9. In the <bpt id="p1">**</bpt>Counted<ept id="p1">**</ept> column of the <bpt id="p2">**</bpt>Journal line<ept id="p2">**</ept> section, enter the numbers counted in each Site/Warehouse/Location/License plate. Note the following:
 
     - 如果“现有”量与“盘点”量相同，则“数量”字段将为空。
 

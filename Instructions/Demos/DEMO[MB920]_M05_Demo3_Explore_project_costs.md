@@ -2,16 +2,11 @@
 demo:
   title: 演示 3：了解项目成本
   module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
-ms.openlocfilehash: ca5f0816e2d018c01ab7e24b43219ff32c0e693e
-ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909281"
 ---
+
 ## <a name="demo-3---explore-project-costs"></a>演示 3 - 了解项目成本
 
-在此演示中，我们将详细介绍将记入 Contoso Consulting 项目的时间和费用条目的创建过程。 我们将探索其采用的格式针对 Web 和移动设备演示而进行了优化的条目，并了解如何使用工作流来管理审批过程。
+In this demo, we will walk through the creation of a time and expense entry that will be charged to the Contoso Consulting project. We'll explore the entries in formats optimized for web and mobile presentation, and we'll see how a workflow is used to manage the approval process.
 
 1. 在 Dynamics 365 for Finance and Operations 的导航窗格中，选择“模块”>“项目管理和会计”>“时间表”>“我的时间表(移动设备优化版)” 。  
     首先，虽然我现在没有使用移动设备，但在选择“我的时间表(移动设备优化版)”之后，你会发现这些表单可用于移动设备。
@@ -20,7 +15,7 @@ ms.locfileid: "137909281"
 
     此优化是 Microsoft 业务应用程序的一个关键区别，有助于确保最大限度地缩短 Web 和移动设备用户之间的学习曲线。
 
-1. 在右上方的公司选择器中，验证你要连接的法人是否是“USSI”。 如果不是，请将法人更改为“USSI”。
+1. In the top right company picker, verify the legal entity you are connecting to is <bpt id="p1">**</bpt>USSI<ept id="p1">**</ept>. If it's not, change the legal entity to <bpt id="p1">**</bpt>USSI<ept id="p1">**</ept>.
 
 1. 在“我的时间表”页上，选择“新建” 。  
     现在，我们将基于配置的设置创建一个新的时间表。
@@ -36,7 +31,7 @@ ms.locfileid: "137909281"
 1. 在“我的时间表详细信息”页上，选择“新建 +”图标 。
 
 1. 在“新时间表项”窗格中，点击“法人”框 。  
-    随即将打开该新时间表项，其中包含客户、项目、类别、项属性和税收参数等详细信息。 如果时间条目代表组织中的另一家公司，则也可以选择其他法人。
+    The new timesheet line will be opened, with details such as the customer, the project, the category, the line properties, and tax parameters. You can also select a different legal entity if the time entry is on behalf of another company within your organization.
 
 1. 选择“项目 ID”菜单。
 
@@ -50,10 +45,10 @@ ms.locfileid: "137909281"
 
     ![“时间条目”页面的屏幕截图。](./media/projops_costs_2_mon_box.png)
 
-1. 在“内部评论”框中，添加评论。 例如：也许可以和他们谈谈新自行车。  
+1. 在此演示中，我们将详细介绍将记入 Contoso Consulting 项目的时间和费用条目的创建过程。  
     你还可以针对项目输入内部评论和外部评论，以确保各方都了解所记录的时间的性质。
 
-1. 在“外部评论”框中，添加评论。 例如：调整了链条并对准了车队的前轮。
+1. 我们将探索其采用的格式针对 Web 和移动设备演示而进行了优化的条目，并了解如何使用工作流来管理审批过程。
 
 1. 在导航栏中，选择“保存”。
 
@@ -62,13 +57,13 @@ ms.locfileid: "137909281"
 1. 在“我的时间表”页面上，选择之前创建的时间条目。
 
 1. 在“时间表”选项卡上，点击“类别”列。  
-    现在假设我们已回到计算机，并且正在从 Web 时间表表单中查看我们的时间。 我们仍然可以看到相同的信息，例如类别和时间。
+    Now assume we've returned to a computer and are reviewing our time from within the web timesheet form. We can still see the same information, such as the category and the hours.
 
 1. 在“项详细信息”下，点击“内部评论”和“外部评论”  。  
-    我们还可以查看我们之前输入的评论。 信息都在，但布局格式略有不同。 这种格式通常用于最终审阅，因为它让人们可以更轻松地审阅和验证他们的时间，尤其是当某人被分配到多个项目或类别时。
+    We can also review the comments we entered earlier. The information is there, but the layout format is just a bit different. This format is often used for final review because it can be easier for people to review and validate their time, especially when someone is assigned to multiple projects or categories.
 
 1. 在导航栏中，选择“工作流”选项卡。  
-    如果我们对时间表感到满意，则可以将其提交。 所需的批准将由每个组织在实现阶段根据各自的公司策略来决定。
+    If we're satisfied with the timesheet, we can submit it. The approvals required will be determined by each organization during the implementation phase based on their own company policies.
 
 1. 在“审阅时间表工作流”窗格中，选择“提交” 。
 
@@ -76,10 +71,10 @@ ms.locfileid: "137909281"
 
 1. 选择“提交”。 
 
-1. 浏览到“时间事务”页面。 如果“时间事务”选项卡灰显，请浏览至“我的时间表”页面，然后选择先前创建的时间表 。
+1. Browse to the <bpt id="p1">**</bpt>Hour transactions<ept id="p1">**</ept> page. If the <bpt id="p1">**</bpt>Hour transactions<ept id="p1">**</ept> tab is grayed out, browse to the <bpt id="p2">**</bpt>My timesheets page<ept id="p2">**</ept>, and select the previously created timesheet.
 
 1. 在“时间事务”页面上，查看该页面。  
-    批准后，结果将公布，并显示在“时间事务”页面中。 我们可以查看所有相关信息，例如法人、项目、类别、时间，在本例中，甚至可以查看成本价和销售价。  
+    Upon approval, the results will be posted and will be visible in the Hour transactions page. We can see all the relevant information, such as the legal entity, project, category, hours, and in this case, even a view of the cost price and the sales price.  
 
 接下来，我们可以深入到凭证交易。
 
@@ -94,7 +89,7 @@ ms.locfileid: "137909281"
 
 1. 在“费用管理”页面上的“报告”选项卡中，选择“+ 新建费用报告”  。
 
-1. 在“新建费用报告”窗格中的“用途”框中，输入标题 。 例如“Contoso – Feb2021”。
+1. 在右上方的公司选择器中，验证你要连接的法人是否是“USSI”。
 
 1. 选择“确定”。
 
@@ -108,7 +103,7 @@ ms.locfileid: "137909281"
 
 1. 在“货币”列中，选择“美元” 。
 
-1. 在“交易日期”列中，选择日期。 例如“2021 年 2 月 1 日”。  
+1. 如果不是，请将法人更改为“USSI”。  
     输入所有详细信息后，便可以保存该费用。
 
 1. 选择“保存”  。
@@ -132,6 +127,6 @@ ms.locfileid: "137909281"
 1. 选择“提交”。 
 
 1. 在“费用管理”页面上，点击“批准状态”列 。  
-    此时，差旅策略和费用批准流程将会激活。 费用已过帐并已应用于 Contoso Consulting 项目，如果需要收费，可以稍后开具发票。
+    At this time, travel policies and expense approval flow will be activated. The costs have been posted and applied to the Contoso Consulting project and will be available later for invoicing if chargeable.
 
-在此演示中，我们处理了计入 Contoso Consulting 项目的时间和费用条目。 我们看到了 Web 和移动设备格式的示例，并且能够看到如何使用工作流来管理 USSI 组织所需的批准。
+In this demo, we have processed a time and expense entry that was charged to the Contoso Consulting project. We saw samples in web and mobile formats and were able to see how workflows are used to manage the approvals required by the USSI organization.
