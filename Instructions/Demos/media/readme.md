@@ -1,1 +1,1 @@
-Supporting image files markdown docs in Instructions/Demos
+说明/演示中的支持图像文件 Markdown 文档
