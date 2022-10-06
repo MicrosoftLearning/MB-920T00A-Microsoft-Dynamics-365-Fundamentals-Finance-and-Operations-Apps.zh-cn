@@ -2,13 +2,8 @@
 demo:
   title: 演示 1：月末结算
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
-ms.openlocfilehash: 64e058508083538795592815e4657ac905000ded
-ms.sourcegitcommit: 252458fca8e71b6e5e8b99ae4c2b47cd85461a30
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909279"
 ---
+
 ## <a name="demo-1---month-end-close"></a>演示 1 - 月末结算
 
 1. 浏览到“Microsoft 365 Finance and Operations”主页。  
@@ -75,7 +70,7 @@ ms.locfileid: "137909279"
 1. 在“财务期段结算配置”页面上，选择“任务领域”选项卡 。  
     在此，已定义了大概的任务领域。 在本例中，这些领域不涉及安全角色。
 
-1. 选择“资源”  选项卡。
+1. 选择“资源” **** 选项卡。
 
 1. 在资源页面上，你可以查看各个员工及其分配的结算角色。
 

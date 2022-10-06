@@ -2,13 +2,8 @@
 lab:
   title: 实验室 1：创建主帐户
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
-ms.openlocfilehash: 6568afcb26212ab952a48dfaf7bb4f377e4ffd36
-ms.sourcegitcommit: aa74c0578c7018838f0c935f5901e9c667ef0801
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116648"
 ---
+    
 # <a name="module-2-learn-the-fundamentals-of-microsoft-dynamics-365-finance"></a>模块 2：学习 Microsoft Dynamics 365 Finance 的基础知识
     
 ## <a name="lab-1---create-a-main-account"></a>实验室 1 - 创建主帐户
