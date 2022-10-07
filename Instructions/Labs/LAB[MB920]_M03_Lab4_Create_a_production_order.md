@@ -8,7 +8,7 @@ lab:
 
 ## <a name="objectives"></a>目标
 
-The production order contains information about what will be produced, the quantity to produce, and the planned finish date. It also contains information about which materials to consume and which process to follow to produce the item.
+生产订单包含有关生产的物品、生产的数量和计划的完成日期的信息。 它还包含了有关生产物品要消耗的材料和要遵循的流程的信息。
 
 你需要为你的公司创建一个新的生产订单。
 
@@ -29,11 +29,11 @@ The production order contains information about what will be produced, the quant
 1. 在“标识”下的“物料编号”框中，输入“D0001”，然后选择已标识的物料  。
 
 1. 在“生产”下的“交货”框中，选择从当前日期开始再过一个月的日期 。  
-    The delivery date indicates when the production order should end in order to deliver on time. This date can be used in the scheduling process. For example, you can schedule the order backward from the delivery date.
+    交货日期表示为了按时交货，生产订单应在何时结束。 该日期可用于计划过程。 例如，可以将订单安排在交货日期前。
 
 1. 在“数量”框中，输入“20”。 
 
-1. Under <bpt id="p1">**</bpt>BOM/ROUTE<ept id="p1">**</ept>, the BOM number field automatically displays the number of any active BOM for the current item, but you can change the BOM for the production order by selecting an active BOM from the list of approved BOM versions. The Route number field automatically displays the number of any active Route for the current item, but you can change the Route for the production order by selecting an active Route from the list of approved Route versions.
+1. 在“物料清单/工艺路线”下，“物料清单编号”字段会自动显示当前物料的任何有效物料清单的编号，但通过从批准的物料清单版本列表中选择一个有效物料清单可更改生产订单的物料清单。 “工艺路线编号”字段会自动显示当前物料的任何有效工艺路线的编号，但通过从批准的工艺路线版本列表中选择一个有效工艺路线可更改生产订单的工艺路线。
 
     ![显示完整“创建生产订单”窗格的屏幕图像](./media/lp1-m4-new-production-order-pane.png)
 

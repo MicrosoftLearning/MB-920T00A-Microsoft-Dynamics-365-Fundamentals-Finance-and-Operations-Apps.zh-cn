@@ -10,7 +10,7 @@ lab:
 
 ## <a name="objectives"></a>目标
 
-It's more typical for purchase orders to be created automatically as result of master planning, direct delivery, and other processes. When created manually, a purchase order is usually created by a purchasing agent. Create a purchase order using the the USMF company.
+由于采用主计划、直接交付和其他流程，自动创建采购订单更为典型。 手动创建时，采购订单通常由采购代理创建。 使用 USMF 公司创建一个采购订单。
 
 ## <a name="lab-setup"></a>实验室教学设置
 
@@ -30,25 +30,25 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. 在“创建采购订单”窗格中，选择“供应商帐户”菜单，然后选择“US-101” 。
 
-1. When you select a vendor, details from the vendor record, such as address, invoice account, delivery terms, and delivery mode, will be copied as default values into the order header. You can change these values at any time.
+1. 当选择供应商后，供应商记录中的详细信息（例如地址、发票帐户、交货条款和交货方式）将作为默认值复制到订单头。 你可以随时更改这些值。
 
 1. 展开“常规”部分。
 
 1. 在“存储维度”下，选择“场地”菜单，然后查看场地列表 。
 
-1. The Site field, together with the Warehouse field, specifies where the procured goods or services must be delivered. The default delivery address is the site. Both fields can be populated with values set up for the selected vendor, or you can specify them manually.
+1. “场地”字段与“仓库”字段一起指定了采购的货物或服务的交货地点。 默认的交货地址是场地。 这两个字段都可以使用为所选供应商设置的值来填充，你也可以手动指定它们。
 
 1. 在“日期”下，“交货日期”字段用于指定何时需要交付采购的货物和服务。
 
-1. You can specify a single delivery date for the order, or the individual order lines can be given unique delivery dates. If the delivery date specified here cannot be met for specific products or services because they have longer lead times, then those lines will be created with a later delivery date to accommodate for this.
+1. 可以为订单指定一个交货日期，也可以为各订单行指定独有的交货日期。 如果特定产品或服务的提前期较长，这里指定的交货日期不能满足它们的要求，则可以为这些行创建一个较晚的交货日期，以适应这种情况。
 
-1. Expand the <bpt id="p1">**</bpt>Administration<ept id="p1">**</ept> section. The <bpt id="p1">**</bpt>Orderer<ept id="p1">**</ept> box can be used to specify who is placing the order.
+1. 展开“管理”部分。 “订购人”框可用于指定下订单的人。
 
-1. 由于采用主计划、直接交付和其他流程，自动创建采购订单更为典型。
+1. 这样可以在供应商需要联系该人时方便与其分享。 如果当前的用户帐户与“用户”页面上的名字相关联，则可以自动分配该值。
 
 1. 选择“确定”。
 
-1. 手动创建时，采购订单通常由采购代理创建。
+1. 现在已创建订单头。 在处理采购订单行时，只显示抬头信息的摘要。 如果需要查看其余信息，请选择“抬头”。
 
     ![显示“抬头”菜单位置的屏幕图像](./media/lp1-m3-purchase-order-header-option.png)
 
@@ -58,7 +58,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. 在“显示”下，选择“维度” 。
 
-1. 使用 USMF 公司创建一个采购订单。
+1. 产品可以分为按维度（如颜色、尺寸或样式）区分的变型。 产品也可以设为使用存储维度（如场地和仓库）。 另外还有可选的跟踪维度，例如批次和序列号。 为了提高订单输入的效率，你可以将常用的维度字段直接添加到订单网格中。
 
 1. 在“维度显示”窗格中，在“产品维度”下，选择“颜色”复选框 。
 
@@ -72,7 +72,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. 通过指定物料编号为产品和服务创建订单行，或通过指定采购类别将订单行创建为支出。
 
-1. Procurement category is used for adding lines where procured items are expensed directly, rather than going into inventory. This means that if you need to expense a purchase, you can do this by creating a purchase order line that specifies a procurement category, rather than creating a line with an item number. Items can also be associated with a procurement category and in this case, the procurement category is shown as informational only.
+1. 采购类别用于添加采购物料直接支出的行，而不是采购物料进入库存的行。 这意味着，如果需要支出一项采购，你可以创建一个指定采购类别的采购订单行，而不是创建一个带有物料编号的行。 物料也可以与采购类别相关联，在这种情况下，采购类别只作为信息性信息显示。
 
 1. 选择“颜色”菜单，查看可用选项，然后选择其中一种颜色或颜色组合。
 
@@ -84,21 +84,21 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. 部分其他信息：
 
-    - <bpt id="p1">**</bpt>Unit<ept id="p1">**</ept>: Indicates the unit of measure for the ordered quantity. Normally, the unit is automatically provided from the purchasing unit on the product master data.
+    - **单位**：表示订购数量的度量单位。 通常情况下，产品主数据上的采购单位会自动提供单位。
 
-    - <bpt id="p1">**</bpt>Unit price<ept id="p1">**</ept>: Contains a value from either a purchase agreement or a trade agreement. It is possible to change the unit price on individual order lines—for example, if a unique price is negotiated with the vendor.
+    - **单价**：包含购买协议或贸易协议中的值。 可以更改单个订单行的单价，例如，在与供应商协商了一个独有价格的情况下。
 
-    - <bpt id="p1">**</bpt>Discount<ept id="p1">**</ept>: Represents a discount amount per unit. This discount therefore reduces the unit price by the discount. This discount is commonly supplied automatically from purchase agreements or trade agreements, but it is possible to override on individual lines if unique discounts have been negotiated with the vendor.
+    - **折扣**：代表每单位的折扣金额。 因此，此折扣会按折扣降低单价。 采购协议或贸易协议通常会自动提供此折扣，但如果与供应商协商了独有折扣，则可能会覆盖个别项目。
 
-    - <bpt id="p1">**</bpt>Discount percentage<ept id="p1">**</ept>: When entered, this reduces the net amount for the line accordingly. The discount percent is often supplied automatically from purchase agreements or trade agreements, but it is possible to override on individual lines if a unique discount percentage has been negotiated with the vendor.
+    - **折扣率**：当输入后，会相应减少行的净额。 采购协议或贸易协议通常会自动提供此折扣率，但如果与供应商协商了独有折扣率，则可能会覆盖个别项目。
 
-    - <bpt id="p1">**</bpt>Net amount<ept id="p1">**</ept>: Calculated from other fields on the line, including quantity, unit price, discount, and discount percent. It is possible to change the Net amount, but then the Unit Price, Discount, and Discount percent fields will be blank, and when you post toward the line, the amount posted will be proportional to the net amount. Generally, the Net Amount field is only used for displaying the net amount of the line.
+    - **净额**：根据行的其他字段（包括数量、单价、折扣和折扣率）计算。 可以改变净额，但“单价”、“折扣”和“折扣率”字段将变为空白，在向该行过帐时，过帐的金额将与净额成正比。 一般来说，“净额”字段只用于显示该行的净额。
 
 1. 在“采购订单行”下的页面底部，选择“行明细”。
 
 1. 选择“交货”选项卡。
 
-1. A unique delivery date can be assigned to each order line. The date is inherited from the field on the purchase order header, but you can change this.
+1. 可以为每个订单行分配一个唯一的交货日期。 虽然该日期继承自采购订单头上的字段，但你可以更改。
 
 1. 关闭“采购订单行”页面。
 
