@@ -2,13 +2,8 @@
 lab:
   title: 实验室 1：浏览财务和运营应用
   module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
-ms.openlocfilehash: f1d534e6d6d960be8f6672048f83a20a491264cc
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116211"
 ---
+
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>模块 1：探索 Dynamics 365 财务和运营应用的核心功能
 
 ## <a name="lab-1---navigate-finance-and-operations-apps"></a>实验室 1 - 浏览财务和运营应用

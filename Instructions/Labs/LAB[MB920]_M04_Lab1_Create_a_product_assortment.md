@@ -28,7 +28,7 @@ lab:
 
 1. 选择“生效日期”框，然后选择将来的某个日期。
 
-1. In the <bpt id="p1">**</bpt>Assortment name<ept id="p1">**</ept> box, enter a name for the new assortment. For example, <bpt id="p1">**</bpt>New Spring Season<ept id="p1">**</ept>.
+1. 在“分类名称”框中，输入新分类的名称。 例如“新春”。
 
 1. 将“到期日期”设置为“永不” 。
 
@@ -55,7 +55,7 @@ lab:
 
 1. 这将添加父类别的所有子项。
 
-1. Review the last column named <bpt id="p1">**</bpt>Line type<ept id="p1">**</ept>. By default, all items will be included.
+1. 查看名为“系列类型”的最后一列。 默认情况下，将包含所有项。
 
 1. 选择“+ 添加系列”，选择“类别”菜单，展开“团队运动”，选择“棒球”，然后选择“确定”    。
 
@@ -63,7 +63,7 @@ lab:
 
 1. 使用“棒球”类别行，选择“产品”菜单。
 
-1. When products within a category are defined, you can select a specific product to include or exclude. Select <bpt id="p1">**</bpt>AdultBaseballInfield<ept id="p1">**</ept>.
+1. 定义某个类别中的产品时，可以选择要包括或排除的特定产品。 选择“AdultBaseballInfield”。
 
 1. 要删除添加的产品，请删除“产品”框中的内容，然后按键盘上的 Tab 键或选择页面的其他区域。
 

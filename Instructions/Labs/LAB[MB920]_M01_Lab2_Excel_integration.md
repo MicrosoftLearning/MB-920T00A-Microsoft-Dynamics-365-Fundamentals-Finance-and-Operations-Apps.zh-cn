@@ -8,7 +8,7 @@ lab:
 
 ## <a name="objective"></a>目标
 
-In this lab, you will learn how to copy data from finance and operations to Excel using Dynamics office add-in app. You will also learn how the same app can be used to insert data into finance and operations apps.
+在本实验中，你将了解如何使用 Dynamics Office 加载项应用将数据从财务和运营应用复制到 Excel。 你还将了解如何使用同一应用将数据插入财务和运营应用。
 
 ## <a name="lab-steps"></a>实验步骤
 
@@ -22,7 +22,7 @@ In this lab, you will learn how to copy data from finance and operations to Exce
 
 4. 选择“供应商组”(usmf) 并下载 Excel 模板。
 
-5. Save and then open the downloaded Excel template, allow it if needed, close activation, and select <bpt id="p1">**</bpt>Enable editing<ept id="p1">**</ept>. Trust this add-in, and then sign in (using your same credentials, if asked).
+5. 保存并打开下载的 Excel 模板，根据需要允许它，关闭激活，然后选择“启用编辑”。 信任此加载项，然后登录（如果系统询问，则使用同一凭据登录）。
 
     供应商组表的所有现有数据都将显示在 Excel 电子表格中。
 

@@ -7,10 +7,10 @@ demo:
 ## <a name="demo-2---create-an-invoice"></a>演示 2 - 创建发票
 
 1. 浏览到“项目管理”工作区 **** 。  
-    In this demo, we'll go over the process of invoicing a single project within project operations. Although it's possible to perform mass invoicing, for demonstration purposes we will focus on just a single time and material project. We'll also see the posting results and financial insights within the project statement. Let's start with project invoicing. 
+    在本演示中，我们将探讨在 Project Operations 中为单个项目开具发票的过程。 虽然可以大规模开具发票，但出于演示目的，我们将仅重点介绍单个时间和材料项目。我们还将在项目陈述中查看过帐结果和财务见解。 让我们从项目开票开始。 
 
-1. In the top-right company picker, verify the legal entity you are connected to is<bpt id="p1"> **</bpt>USSI<ept id="p1">**</ept>. If it's not, change the legal entity to<bpt id="p1"> **</bpt>USSI<ept id="p1">**</ept>.  
-    From the<bpt id="p1"> **</bpt>Project management<ept id="p1">**</ept> workspace, we can see all the active projects. We can search for projects using the filter, or in this example, we will select a known Project ID. 
+1. 在右上方的公司选择器中，验证你连接的法人是否是“USSI” **** 。 如果不是，请将法人更改为“USSI” **** 。  
+    在“项目管理”工作区中，我们可以看到所有的启用项目 **** 。我们可以使用筛选器搜索项目，在本例中，我们将选择一个已知的项目 ID。 
 
 1. 在“启用项目”表的“项目 ID”列中，选择“00000093 Contoso Consulting” ****   ****   **** 。  
 
@@ -24,7 +24,7 @@ demo:
     ![突出显示了新发票方案的“项目发票方案”页面的屏幕截图。](./media/projops_invoice_1_new_invoice_proposal.png)
 
 1. 在“创建发票方案”窗格中，指向“选择交易记录”下方的框 ****   **** 。  
-    From here, we can select things such as the invoicing method, the invoice date, the funding source, and the project. We can also choose to include sub projects, as well as incorporate transaction types, the start and end dates for transactions, and any financial dimensions we need. 
+    我们可以从此处选择开票方法、发票日期、融资来源和项目等内容。我们还可以选择包含子项目，以及合并交易记录类型、交易记录的开始日期和结束日期，以及我们需要的任何财务维度。 
 
     ![“创建发票方案”窗格的屏幕截图，其中突出显示了“选择交易记录”部分。](./media/projops_invoice_2_select_transactions.png)
 
@@ -34,7 +34,7 @@ demo:
     选择后，选择“搜索”按钮即可查找符合这些参数的交易记录。
 
 1. 选择“搜索” **** 。  
-    在本演示中，我们将探讨在 Project Operations 中为单个项目开具发票的过程。
+    接下来，要为所有交易开具发票，请选择“全选”选项。 这将选择我们为费用和工时选择的项。
 
 1. 在“项目交易记录”选项卡下，选择“全选” ****   **** 。
 
@@ -57,7 +57,7 @@ demo:
     在“总计”屏幕上，我们可以看到对总帐、信用额度等任何客户信息、任何折扣和销售税的影响，以及发票的净影响。 
 
 1. 在屏幕右侧，选择“X”关闭页面 ****  。  
-    虽然可以大规模开具发票，但出于演示目的，我们将仅重点介绍单个时间和材料项目。 
+    我们现在准备创建打印预览，以确保所有发票信息均准确无误。 一些组织会在项目评审会议期间使用预览，以确保在最后确定发票之前，所有人就总计信息达成一致意见。 
 
 1. 在“发票方案”页面上的导航栏中，选择“打印预览” ****   **** 。 
 
@@ -90,7 +90,7 @@ demo:
 1. 在“发票日记帐”页面上的操作栏中，选择“凭证” ****   **** 。
 
 1. 在“凭证交易记录”页面上，指向“分类帐帐户”列 ****   **** 。  
-    我们还将在项目陈述中查看过帐结果和财务见解。
+    我们可以在此处看到过帐到总帐的结果。 总帐科目由帐户设置和应用于每个项目的财务维度决定。
 
 1. 浏览到“项目管理”工作区 ****  。 
 
@@ -114,4 +114,4 @@ demo:
     ![突出显示了“计算”选项的“项目陈述”页面的屏幕截图。](./media/projops_invoice_4_calculate.png)
 
 1. 指向“交易记录” **** 。  
-    让我们从项目开票开始。
+    数据刷新后，项目经理可以选择进一步向下钻取到交易记录详细信息，以做出项目决策或根据需要做出调整。在本演示中，我们处理了同时包含工时和费用交易记录的时间和材料发票。 我们对其进行了预览，然后过帐了发票、查看了分类帐过帐，并且最后通过此项目陈述查看了财务影响。
