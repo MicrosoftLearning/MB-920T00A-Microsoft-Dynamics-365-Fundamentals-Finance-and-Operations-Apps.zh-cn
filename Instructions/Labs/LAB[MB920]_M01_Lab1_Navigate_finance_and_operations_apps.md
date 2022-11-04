@@ -34,7 +34,7 @@ lab:
 
         pass@word1
 
-    >[!Note] Internet Explorer 可能会在桌面上自动打开。 如果尚未完成步骤 2-5，请先完成它们，然后再导航回 Internet Explorer。
+    >[!Note] Microsoft Edge 可能会在桌面上自动打开。 如果尚未完成步骤 2-5，请先完成它们，然后再导航回 Microsoft Edge。
 
 1. 在桌面上选择 AdminUserProvisioning 文件。
 
@@ -45,7 +45,7 @@ lab:
 
 1. 选择“确定”以继续。
 
-1. 打开 Internet Explorer。
+1. 打开 **Microsoft Edge**。
 
 1. 浏览到给定的链接：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
