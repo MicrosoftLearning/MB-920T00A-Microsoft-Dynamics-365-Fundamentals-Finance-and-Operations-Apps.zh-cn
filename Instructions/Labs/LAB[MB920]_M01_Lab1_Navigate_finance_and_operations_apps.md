@@ -34,29 +34,18 @@ lab:
 
         pass@word1
 
-    >[!Note] Microsoft Edge 可能会在桌面上自动打开。 如果尚未完成步骤 2-5，请先完成它们，然后再导航回 Microsoft Edge。
+1. 等待 AdminUserProvisioning 脚本完成后再继续。 这可能需要 2-3 分钟。 脚本完成后，将短暂显示一个弹出框，用于确认管理员用户已成功更新。
 
-1. 在桌面上选择 AdminUserProvisioning 文件。
+1. Microsoft Edge 将打开财务和运营 URL：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
-1. 输入提供的凭据，然后选择“提交”。  
-你的凭据会显示在屏幕右上角的“资源”菜单中。
-
-1. 等待脚本完成后再继续。 这可能需要 2-3 分钟。 脚本完成后，将显示一个弹出框，用于确认管理员用户已成功更新。
-
-1. 选择“确定”以继续。
-
-1. 打开 **Microsoft Edge**。
-
-1. 浏览到给定的链接：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
-
-1. 使用“资源”菜单中提供的凭据进行登录。
+1. 使用“资源”菜单中提供的“用户名和密码”登录。
 
 ### <a name="navigate-finance-and-operations-apps"></a>浏览财务和运营应用
-1. 在财务和运营主页上（如果已配置），将显示以下内容：
+1. 在“财务和运营”主页上，将显示以下内容：
 
     - 左侧的导航菜单，默认情况下处于折叠状态。
 
-    - 你公司的徽标。
+    - 贵公司的横幅图像。
 
     - 可以使用的工作区磁贴（具体取决于你在组织中的角色）。
 
@@ -119,10 +108,14 @@ lab:
 
 1. 请注意右上角的其他功能。 将鼠标移到每个项，并查看功能标注。 完成后，选择“关闭”图标以关闭页面并返回主页。
 
-    ![列表页面右上角菜单显示了用于连接到 Power Apps、Office 应用、“刷新”页面、“在新窗口中打开”和“关闭”按钮的其他功能](./media/m1-common-list-page-additional-features-menu.png)
+    ![列表页面右上角菜单显示了用于连接到 Power Apps、Office 应用、“附件”、“刷新”、“在新窗口中打开”和“关闭”按钮的其他功能](./media/m1-common-list-page-additional-features-menu.png)
 
 1. 在右上角，选择“帮助”问号图标，然后选择“帮助” 。
 
 1. 请注意，帮助信息与当前页面相关。
 
-1. 尝试选择一个工作区磁贴，然后查看该工作区的帮助信息。 完成后，返回主页。
+1. 使用左上角的“财务和运营”链接或左侧导航菜单中的“主页”图标返回到默认仪表板。
+
+>[!Note] 键盘快捷方式：Alt+Shift+Home，“财务和运营”支持大量键盘快捷方式，以加快访问系统的速度： https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/shortcut-keys
+
+1. 尝试选择另一个工作区磁贴，然后查看该工作区的帮助信息。 完成后，返回到默认仪表板。
