@@ -31,3 +31,5 @@ lab:
     - DB/CR 默认值：借方
 
  ![主科目屏幕截图 - 会计科目表：与步骤 5 填充的字段共享页面](./media/m-002-explore-general-ledgers-in-microsoft-dynamics-365-finance-03.png)
+
+6. 单击“保存” 。
