@@ -6,6 +6,8 @@ lab:
 
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>模块 1：探索 Dynamics 365 财务和运营应用的核心功能
 
+## <a name="lab-2---excel-integration"></a>实验室 2 - Excel 集成
+
 ## <a name="objective"></a>目标
 
 在本实验中，你将了解如何使用 Dynamics Office 加载项应用将数据从财务和运营应用复制到 Excel。 你还将了解如何使用同一应用将数据插入财务和运营应用。
@@ -28,7 +30,7 @@ lab:
 
 6.  输入新记录。
 
-7. 在“供应商组”字段中输入“100”、“说明”字段中输入“保险供应商”，并在“付款条款”字段中输入“Net10”。     
+7. 在“供应商组”字段中输入“100”、在“说明”字段中输入“保险供应商”，并在“付款条款”字段中输入“Net10”     。
 
 8. 在 Microsoft Dynamics Office 加载项应用中选择“发布”按钮。
 
