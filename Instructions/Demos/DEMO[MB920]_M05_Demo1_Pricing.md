@@ -4,7 +4,7 @@ demo:
   module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
 ---
 
-## <a name="demo-1---project-operations-pricing"></a>演示 1 - Project Operations 定价
+## 演示 1 - Project Operations 定价
 
 1. 浏览到“项目管理”工作区。  
     在本演示中，我们将在 Project Operations 中设置销售价和成本价。 我们将了解如何从先前过帐的发票中得出成本和价格。

@@ -4,7 +4,7 @@ demo:
   module: 'Module 2: Learn the Fundamentals of Microsoft Dynamics 365 Finance'
 ---
 
-## <a name="demo-1---month-end-close"></a>演示 1 - 月末结算
+## 演示 1 - 月末结算
 
 1. 浏览到“Microsoft 365 Finance and Operations”主页。  
     要在 Microsoft 365 Finance and Operations 中创建新的财务期段结算（例如月末结算），请先导航到“总帐”模块。

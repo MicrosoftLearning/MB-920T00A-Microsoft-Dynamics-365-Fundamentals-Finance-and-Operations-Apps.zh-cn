@@ -4,7 +4,7 @@ demo:
   module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
 ---
 
-## <a name="demo-2---create-an-invoice"></a>演示 2 - 创建发票
+## 演示 2 - 创建发票
 
 1. 浏览到“项目管理”工作区 **** 。  
     在本演示中，我们将探讨在 Project Operations 中为单个项目开具发票的过程。 虽然可以大规模开具发票，但出于演示目的，我们将仅重点介绍单个时间和材料项目。我们还将在项目陈述中查看过帐结果和财务见解。 让我们从项目开票开始。 

@@ -4,7 +4,7 @@ demo:
   module: 'Module 4: Learn the Fundamentals of Microsoft Dynamics 365 Human Resources'
 ---
 
-## <a name="demo-1---assigning-learning-courses"></a>演示 1 - 分配学习课程
+## 演示 1 - 分配学习课程
 
 1. 浏览到“Microsoft Dynamics 365 Human Resources”主页。  
     在 Microsoft Dynamics 365 Human Resources 中，人事经理可以为员工分配培训课程。 在本例中，需要向公司的新雇员 Alicia 分配员工在前 30 天内可使用的培训。
