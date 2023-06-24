@@ -4,7 +4,7 @@ demo:
   module: 'Module 5: Learn the Fundamentals of Microsoft Dynamics 365 Project Operations'
 ---
 
-## <a name="demo-3---explore-project-costs"></a>演示 3 - 了解项目成本
+## 演示 3 - 了解项目成本
 
 在此演示中，我们将详细介绍将记入 Contoso Consulting 项目的时间和费用条目的创建过程。 我们将探索其采用的格式针对 Web 和移动设备演示而进行了优化的条目，并了解如何使用工作流来管理审批过程。
 
