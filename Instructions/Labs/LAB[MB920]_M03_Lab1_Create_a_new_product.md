@@ -10,7 +10,7 @@ lab:
 
 ## 目标
 
-在 Contoso Entertainment System USA (USMF) 中，你计划从一家供应商处购买一份新的陈列柜配置。 你需要创建一个项来表示新配置。 在此实验室中，你将了解如何创建新的项和项配置。
+在 Contoso Entertainment System USA (USMF)，您计划从供应商处购买新的机柜配置。 您需要创建一个物料来表示新配置。 在此实验室中，你将了解如何创建新的项和项配置。
 
 ## 实验室教学设置
 
@@ -18,7 +18,7 @@ lab:
 
 ## Instructions
 
-在 Contoso Entertainment System USA (USMF) 中，你计划从一家供应商处购买一份新的陈列柜配置。 你需要创建一个项来表示新配置。
+在 Contoso Entertainment System USA (USMF) 中，你计划从一家供应商处购买一份新的陈列柜配置。 您需要创建一个物料来表示新配置。
 
 1.  在财务和运营应用主页的右上角，验证你当前是否在对 USMF 公司执行操作。 如有必要，请在公司下拉菜单中选择“USMF”。
 
@@ -34,15 +34,15 @@ lab:
 
 7.  在“标识”下的“产品编号”框中输入“GTL007”  。
 
-8.  在“产品名称”框中，输入“2 号柜”。 
+8.  在“产品名称”框中，输入“2 号柜”。
 
-    ![屏幕截图展示的是新产品创建页面的标准视图。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-07.png)
+    ![屏幕截图展示了新产品创建页面的标准视图。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-07.png)
 
 9.  选择“确定”按钮。
 
 10. 在“操作窗格”的“产品”菜单下，选择“设置”组下的“维度组”  。
 
-    ![屏幕截图展示的是产品菜单下的“设置”选项，可在其中添加不同的维度组详细信息。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-08.png)
+    ![屏幕截图展示了“产品”菜单下的设置选项，可以在其中添加不同的维度组详细信息。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-08.png)
 
 11. 选择“存储维度组”下拉菜单，并选择“SiteWH” 。
 
@@ -54,7 +54,7 @@ lab:
 
 15. 此时会打开一个页面，其中第一步显示为“选择要发布的产品”。
 
-    ![屏幕截图展示的是产品发布页面的标准视图。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-09.png)
+    ![屏幕截图展示了发布产品页面的标准视图。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-09.png)
 
 16. 选择该页面底部的“下一步”按钮
 
@@ -68,7 +68,7 @@ lab:
 
 21. 在导航窗格中，选择“模块”，然后选择“产品信息管理”。 然后在“产品”菜单中，选择“已发布的产品”。
 
-22. 在发布产品页中，在网格中找到新出现的“GTL007”物料  。 
+22. 在“已发布产品”******** 页的网格中找到新项目“GTL007”****。 
 
 23. 选择产品链接并导航到“产品详细信息”页。
 
@@ -104,7 +104,7 @@ lab:
 
     - 物料组：音频
 
-30. 若要完成配置，请在操作窗格中选择“产品”。 选择“维护”组下的“验证”按钮
+30. 要完成配置，请在操作窗格中选择“产品”。 选择“维护”组下的“验证”按钮
 
     ![屏幕截图展示的是操作窗格中“产品”按钮下的“维护”组。 “维护”组中的“验证”按钮处于选中状态。](./media/03-learn-the-fundamentals-of-dynamics-365-supply-chain-management-10.png)
 
