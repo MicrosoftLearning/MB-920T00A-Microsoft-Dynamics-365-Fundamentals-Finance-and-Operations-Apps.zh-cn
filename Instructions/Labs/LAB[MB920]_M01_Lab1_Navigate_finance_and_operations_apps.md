@@ -1,12 +1,13 @@
 ---
 lab:
-  title: 实验室 1：浏览财务和运营应用
-  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+  title: 实验室 1.1：浏览财务和运营应用
+  module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
 
-# 模块 1：探索 Dynamics 365 财务和运营应用的核心功能
+# 学习路径 1：探索 Dynamics 365 财务和运营应用的核心功能
+# 模块 1：描述财务和运营应用
 
-## 实验室 1：浏览财务和运营应用
+## 实验室 1.1：浏览财务和运营应用
 
 ## 目标
 
@@ -47,12 +48,11 @@ lab:
 
     - 分配给你的日历和工作项。
 
-    - “搜索”栏，对于快速查找所需的内容非常有用。
+    - 搜索栏对于快速查找所需的内容非常有用。
 
     - 在右上角，有你当前正在处理的公司、通知、设置和帮助链接。 验证列出的公司是否为“USMF”。
 
-    ![屏幕截图：Dynamics 365 财务和运营应用主页，其中突出显示了部分区域。](./media/lab-navigate-finance-and-operations-apps-04.png)
-
+    ![屏幕截图：Dynamics 365 财务和运营应用主页，其中突出显示了部分区域。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
 2.  在左上角，选择“扩展导航窗格”汉堡菜单。
 
 3.  在导航窗格中，可以找到“收藏夹”、“最近的项目”、“工作区”和“模块”的集合   。
@@ -69,7 +69,7 @@ lab:
 
 9.  在主页的右上角，选择“设置”图标，然后选择“用户选项”  。
 
-    ![显示“设置”图标和“用户选项”下拉列表的屏幕截图。](./media/lab-navigate-finance-and-operations-apps-05.png)
+    ![显示“设置”图标和“用户选项”下拉列表的屏幕截图。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
 
 10. 在“选项”页面上，使用选项卡配置应用于帐户的其他设置。
 
@@ -83,29 +83,29 @@ lab:
 
 15. 在主页顶部的中心位置，选择“搜索页面”框 。
 
-16. 在搜索框中，搜索“所有供应商”。
+16. 在搜索框中，搜索“所有客户”****。
 
-17. 选择所有供应商应付账款，然后选择供应商
+17. 选择“应收账款”**** > “客户”**** > “所有客户”**** 页。 
 
 18. 首次搜索页面时，可能需要等待。 在搜索过程中，搜索框的右侧将显示一个旋转的小圆圈。
 
-19. “所有供应商”页是一个列表页示例。 列表页面包含可读取、创建、删除和更新的主数据。 列表上方的功能区有更多功能。
+19. 19. “所有客户”页**** 是列表页的一个示例。 列表页面包含可读取、创建、删除和更新的主数据。 列表上方的功能区提供了更多功能。
 
-    ![突出显示了菜单功能的所有供应商列表的屏幕截图。](./media/lab-navigate-finance-and-operations-apps-06.png)
+    ![突出显示了菜单功能的所有供应商列表的屏幕截图。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
 
-20. 突出显示列表中的一个供应商，在右侧选择“相关信息”菜单，然后查看所提供的其他信息。
+20. 突出显示列表中的一个客户，在右侧选择“相关信息”**** 菜单，然后查看所提供的信息。
 
-21. 在供应商列表中，选择“Acme 办公用品”。
+21. 21. 在“客户”**** 列表中，选择“Contoso Retail San Dieg”****。
 
-22. 选择“组”菜单，然后选择“供应商组”列标题 。
+22. 选择“组”**** 菜单，然后选择“客户组”**** 列标题。
 
-    ![“Acme 办公用品”的“供应商”组列标题的屏幕截图。](./media/lab-navigate-finance-and-operations-apps-07.png)
+    ![ContosoRetail San Diego 的客户组的屏幕截图。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-16.svg)
 
 23. 许多菜单都有排序和筛选功能。 使用筛选器可以快速找到要查找的字段内容。
 
 24. 请注意右上角的其他功能。 将鼠标移到每个项，并查看功能标注。 完成后，选择“关闭”图标以关闭页面并返回主页 。
 
-    ![列表页面的屏幕截图，该页面右上角菜单显示了用于连接到 Power Apps、Office 应用、附属单据“刷新”页面、“在新窗口中打开”和“关闭”按钮的其他功能。](./media/lab-navigate-finance-and-operations-apps-08.png)
+    ![列表页面的屏幕截图，该页面右上角菜单显示了用于连接到 Power Apps、Office 应用、附属单据“刷新”页面、“在新窗口中打开”和“关闭”按钮的其他功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-17.svg)
 
 25. 在右上角，选择“帮助”问号图标，然后选择“帮助” 。
 
