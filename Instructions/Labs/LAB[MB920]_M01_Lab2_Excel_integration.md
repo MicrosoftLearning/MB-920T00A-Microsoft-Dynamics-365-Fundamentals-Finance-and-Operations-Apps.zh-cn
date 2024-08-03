@@ -1,12 +1,12 @@
 ---
 lab:
-  title: 实验室 2：Excel 集成
-  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+  title: 实验室 1.2：Excel 集成
+  module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
+# 学习路径 1：探索 Dynamics 365 财务和运营应用的核心功能
+# 模块 3：描述财务和运营应用中的报告和集成功能
 
-# 模块 1：探索 Dynamics 365 财务和运营应用的核心功能
-
-## 实验室 2：Excel 集成
+## 实验室 1.2：Excel 集成
 
 ## 目标
 
