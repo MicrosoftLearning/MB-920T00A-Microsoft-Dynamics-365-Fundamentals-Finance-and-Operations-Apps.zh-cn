@@ -27,8 +27,6 @@ lab:
 
     - 密码：`pass@word1`
 
-1.  等待 AdminUserProvisioning 脚本完成后再继续。 这可能需要 2-3 分钟。 脚本完成后，将短暂显示一个弹出框，用于确认管理员用户已成功更新。 
-
 1.  Microsoft Edge 将打开财务和运营 URL：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
 1.  使用“资源”菜单中提供的“用户名和密码”登录。 
